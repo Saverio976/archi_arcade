@@ -1,6 +1,6 @@
 Write-Output "Start Install/Update"
 
-$SOURCE_REPO_URL = "https://github.com/ARCADE-TEK-2026/archi_arcade.git"
+$SOURCE_REPO_URL = "https://github.com/Saverio976/archi_arcade.git"
 $SOURCE_CLONE_FOLDER = "__tmp"
 $SOURCE_INCLUDE_FOLDER = "$SOURCE_CLONE_FOLDER/include"
 $SOURCE_SETUP_SCRIPT = "setup.ps1"

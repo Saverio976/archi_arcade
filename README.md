@@ -1,6 +1,9 @@
+> [!IMPORTANT]  
+> This is a fork. The original repository has been deleted. It was for a collective group project at EPITECH.
+
 # Archi Commune Arcade Promo 2026 Toulouse
 
-documentation: [docs](https://arcade-tek-2026.github.io/archi_arcade/)
+documentation: [docs](https://saverio976.github.io/archi_arcade/)
 
 ## INSTALLATION
 
@@ -9,7 +12,7 @@ To install the archi on your project, you have to execute this lines on the root
 ### GNU/LINUX
 
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/ARCADE-TEK-2026/archi_arcade/main/setup.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/Saverio976/archi_arcade/main/setup.sh)"
 # then, you will be able to only update the archi using the folowing command:
 ./update-archi.sh
 ```
@@ -17,7 +20,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/ARCADE-TEK-2026/archi_ar
 ### WINDOWS
 
 ```
-Invoke-WebRequest https://raw.githubusercontent.com/ARCADE-TEK-2026/archi_arcade/main/setup.ps1 -OutFile setup.ps1
+Invoke-WebRequest https://raw.githubusercontent.com/Saverio976/archi_arcade/main/setup.ps1 -OutFile setup.ps1
 # then, you will be able to only update the archi using the folowing command:
 ./setup.ps1
 ```

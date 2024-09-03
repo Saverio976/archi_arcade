@@ -14,7 +14,7 @@ else
     echo "Assets will NOT be downloaded"
 fi
 
-SOURCE_REPO_URL="https://github.com/ARCADE-TEK-2026/archi_arcade.git"
+SOURCE_REPO_URL="https://github.com/Saverio976/archi_arcade.git"
 SOURCE_CLONE_FOLDER="__tmp"
 SOURCE_ASSETS_FOLDER="$SOURCE_CLONE_FOLDER/assets"
 SOURCE_INCLUDE_FOLDER="$SOURCE_CLONE_FOLDER/include"
